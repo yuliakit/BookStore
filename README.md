@@ -103,5 +103,3 @@ Platforma nie obsługuje płatności.
 
 ---
 
-## Screenshoty
-
