@@ -45,7 +45,7 @@ Platforma nie obsługuje płatności.
 ---
 
 ## Struktura bazy danych
-<img src="/ReadMeInfo/Untiteled(1).png" alt="Data Base" width="300" height="200">
+<img src="BookStore/ReadMeInfo/Untitled(1).png" alt="Data Base" width="300" height="200">
 
 ### Główne tabele:
 
